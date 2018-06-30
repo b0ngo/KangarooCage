@@ -1,0 +1,18 @@
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csprojResolveAssemblyReference.cache
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo_Cage.Properties.Resources.resources
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csproj.GenerateResource.cache
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csproj.CoreCompileInputs.cache
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\bin\Debug\Kangaroo Cage.exe.config
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\bin\Debug\Kangaroo Cage.exe
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\bin\Debug\Kangaroo Cage.pdb
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo Cage.exe
+C:\Users\b0ngo\source\repos\Kangaroo Cage\Kangaroo Cage\obj\Debug\Kangaroo Cage.pdb
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\bin\Debug\Kangaroo Cage.exe.config
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\bin\Debug\Kangaroo Cage.exe
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\bin\Debug\Kangaroo Cage.pdb
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csprojResolveAssemblyReference.cache
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo_Cage.Properties.Resources.resources
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csproj.GenerateResource.cache
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csproj.CoreCompileInputs.cache
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.exe
+C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.pdb
