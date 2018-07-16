@@ -16,3 +16,4 @@ C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.c
 C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.csproj.CoreCompileInputs.cache
 C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.exe
 C:\Users\b0ngo\Source\Repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo Cage.pdb
+C:\Users\b0ngo\source\repos\KangarooCage\Kangaroo Cage\obj\Debug\Kangaroo_Cage.AboutBox.resources

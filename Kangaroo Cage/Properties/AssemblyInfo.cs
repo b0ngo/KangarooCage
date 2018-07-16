@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Resources;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,7 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Kangaroo Cage")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription(@"This small hobby project simply shows you the current calendar week in the system tray (depending on your local system settings). 
+
+To start this application automatically, press Win + R and type ""shell: startup"".Copy or link the KangarooCage.exe in this folder.
+
+Please feel free, to copy and modify the code.It's absolutely free. It can be found on Github: https://github.com/b0ngo/KangarooCage")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Kangaroo Cage")]
@@ -32,5 +37,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.*")]
+[assembly: NeutralResourcesLanguage("en")]
+
