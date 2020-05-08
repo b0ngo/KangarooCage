@@ -33,7 +33,6 @@ namespace Kangaroo_Cage
         private static Icon CreateIcon(string str)
         {
             Font font = new Font("Segoe UI", 11, FontStyle.Regular, GraphicsUnit.Point);
-            //Font font = new Font("Microsoft Sans Serif", 10, FontStyle.Regular, GraphicsUnit.Point);
             Brush brush = new SolidBrush(Color.White);
             Bitmap bitmapText = new Bitmap(20, 20);
             Graphics g = System.Drawing.Graphics.FromImage(bitmapText);
